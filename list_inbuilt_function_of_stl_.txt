@@ -30,4 +30,4 @@ list: : swap() in C++ STL– This function is used to swap the contents of one l
 list splice() function in C++ STL– Used to transfer elements from one list to another.
 list merge() function in C++ STL– Merges two sorted lists into one
 list emplace() function in C++ STL– Extends list by inserting new element at a given position.
-Recent Articles on C++ list
+
