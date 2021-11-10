@@ -1,4 +1,4 @@
-Iterators:
+Iterators::
 
 begin : Return iterator to beginning (public member function )
 end : Return iterator to end (public member function )
