@@ -1,5 +1,5 @@
 Functions used with List: 😎😎😎😎😎
-
+//
 front() – Returns the value of the first element in the list.
 back() – Returns the value of the last element in the list .
 push_front(g) – Adds a new element ‘g’ at the beginning of the list .
