@@ -9,3 +9,14 @@ erase(iterator position) – Removes the element at the position pointed by the 
 erase(const g)– Removes the key value ‘g’ from the map
 clear() – Removes all the elements from the map
 ///
+Some basic functions associated wiht Unordered Map
+begin() - Returns an iterator to the first element in the unordered map
+end() - Returns an iterator to the theoretical element that follows last element in the unordered map
+size() - Returns number of elements present in an unordered map
+empty() - Returns whether size of unordered map is 0 or not if it is 0 then returns true else false
+count(key) - If an element exists then it returns 1 otherwise 0
+pair insert(keyvalue,value) – Adds a new element to the unordered map
+erase(key) - Deletes the key from our unordered map
+at(k) - Returns the reference to the value with the element as key k
+find(key) - If the key exists in unordered_map it returns an iterator to that element otherwise it returns the end of the unordered map iterator.
+
