@@ -8,4 +8,4 @@ pair insert(keyvalue, mapvalue) – Adds a new element to the map
 erase(iterator position) – Removes the element at the position pointed by the iterator
 erase(const g)– Removes the key value ‘g’ from the map
 clear() – Removes all the elements from the map
-/////
+
