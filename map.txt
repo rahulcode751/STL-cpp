@@ -9,3 +9,4 @@ erase(iterator position) – Removes the element at the position pointed by the 
 erase(const g)– Removes the key value ‘g’ from the map
 clear() – Removes all the elements from the map
 
+//
